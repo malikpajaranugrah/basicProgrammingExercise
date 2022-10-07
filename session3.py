@@ -1,9 +1,11 @@
-name = "Muhammad Amaradipta"
+name = "Malik Pajar Anugrah"
 Class = "TI22I"
-major = "Informatics Engineering"
-quote = "y"
-age = 20
-iLikespiceFood = True
-hobbies = {"playing games, reading"}
+major = "Informatic Engineering"
+quote = "don't limit your steps"
+age = 19
+ilikespicefood = True
+hobbies = ["sports","watch movie","travelling"]
 
-print(f"My name is: {name}\nClass: {Class}\nMajor: {major}\nQuote: {quote}\nAge: {age}\niLikespiceFood: {iLikespiceFood}\nHobbies: {hobbies}  ")
+print(f"My name is: {name}\nClass: {Class}\nMajor: {major}\nQuote: {quote}\nAge: {age}\n"
+      f"I Like Spice Food: {ilikespicefood}\nHobbies: {hobbies}")
+
